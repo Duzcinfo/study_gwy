@@ -11,7 +11,7 @@
   * [资料分析](chapter1/zi-liao-fen-xi.md)
     * [快速审题.md](chapter1/zi-liao-fen-xi/kuai-su-shen-9898-md.md)
     * [结构数据化定位能力.md](chapter1/zi-liao-fen-xi/jie-gou-shu-ju-hua-ding-wei-neng-529b-md.md)
-    * 结合选项的快速估算,md
+    * [结合选项的快速估算,md](chapter1/zi-liao-fen-xi/jie-he-xuan-xiang-de-kuai-su-gu-7b972c-md.md)
     * 综合应用.md
 * [申论](shen-lun.md)
   * [打破跑题.md](shen-lun/da-po-pao-9898-md.md)
