@@ -15,6 +15,7 @@
     * [综合应用.md](chapter1/zi-liao-fen-xi/zong-he-ying-7528-md.md)
   * [常识](chapter1/chang-shi.md)
     * [古代史.md](chapter1/chang-shi/gu-dai-53f2-md.md)
+    * [近代史](chapter1/chang-shi/jin-dai-shi.md)
   * [判断推理](chapter1/pan-duan-tui-li.md)
     * [\*图形推理.md](chapter1/pan-duan-tui-li/tu-xing-tui-7406-md.md)
     * [\*逻辑判断.md](chapter1/pan-duan-tui-li/luo-ji-pan-65ad-md.md)
