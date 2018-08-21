@@ -12,6 +12,7 @@
     * [快速审题.md](chapter1/zi-liao-fen-xi/kuai-su-shen-9898-md.md)
     * [结构数据化定位能力.md](chapter1/zi-liao-fen-xi/jie-gou-shu-ju-hua-ding-wei-neng-529b-md.md)
     * [结合选项的快速估算.md](chapter1/zi-liao-fen-xi/jie-he-xuan-xiang-de-kuai-su-gu-7b972c-md.md)
+    * [倍数-平均数-其他.md](chapter1/zi-liao-fen-xi/bei-6570-ping-jun-6570-qi-4ed6-md.md)
     * [综合应用.md](chapter1/zi-liao-fen-xi/zong-he-ying-7528-md.md)
     * [数量关系.md](chapter1/zi-liao-fen-xi/shu-liang-guan-7cfb-md.md)
     * [资料分析.md](chapter1/zi-liao-fen-xi/zi-liao-fen-6790-md.md)
