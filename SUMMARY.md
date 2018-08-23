@@ -25,6 +25,7 @@
     * [逻辑判断.md](chapter1/pan-duan-tui-li/luo-ji-pan-65ad-md.md)
     * [类比推理.md](chapter1/pan-duan-tui-li/lei-bi-tui-7406-md.md)
     * [定义判断.md](chapter1/pan-duan-tui-li/ding-yi-pan-65ad-md.md)
+    * [t.md](chapter1/pan-duan-tui-li/tmd.md)
 * [申论](shen-lun.md)
   * [打破跑题.md](shen-lun/da-po-pao-9898-md.md)
 
