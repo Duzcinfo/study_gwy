@@ -84,7 +84,7 @@ x = 2a ，a 为整数 ，x 为偶数
 比例型
 
 ```shell
-a : b = m : n
+a : b = m : n （m、n互质）
 a 是 m 的倍数
 b 是 n 的倍数
 a + b 是 m + n 的倍数
